@@ -1,0 +1,142 @@
+#EXTM3U
+#EXTINF:-1,TV Pantanal MS
+https://5ca42828c3a79.streamlock.net/tvpantanalms/tvpantanalms/chunklist_w817097591.m3u8
+#EXTINF:-1,All Sports FHD
+http://173.236.10.10:1935/dgrau/dgrau/chunklist_w549339512.m3u8
+#EXTINF:-1,SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w199492672_b216000_sleng.m3u8
+#EXTINF:-1,SBT SD
+http://difusorama.zoeweb.tv:1935/z438-live/stream/chunklist_w464251518.m3u8
+#EXTINF:-1,SBT FHD
+http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
+#EXTINF:-1,Rede TV SD
+http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w73731525.m3u8
+#EXTINF:-1,Rede TV SD�
+http://evpp.mm.uol.com.br/redetv2/redetv2/chunklist_w20312726.m3u8
+#EXTINF:-1,TV Feliz RN
+http://wse01.logicahost.com.br:1935/tvfelizrn/_definst_/tvfelizrn/chunklist_w1049761976.m3u8
+#EXTINF:-1,Catve FHD
+http://wowza4.catve.com.br:1935/live/livestream/chunklist_w529672192.m3u8
+#EXTINF:-1,Master TV HD
+http://wowza4.catve.com.br:1935/mastertv/livestream/chunklist_w1821412394.m3u8
+#EXTINF:-1,TV Brasil HD
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:-1,Futura SD
+http://caikron.com.br:1935/unipar/tvup/playlist.m3u8
+#EXTINF:-1,TVE FHD
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:-1,TVE SD
+http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8?
+#EXTINF:-1,TV Brasil FHD�
+http://wowza.softhost.com.br:1935/ufg/smil:tvufgweb/playlist.m3u8
+#EXTINF:-1,Manual Do Mundo FHD
+http://tv01.logicahost.com.br:1935/webtvminas/webtvminas/live.m3u8
+#EXTINF:-1,TV Guarapari HD
+http://video.welltecnologia.com.br:1935/tvguarapari/tvguarapari/live.m3u8
+#EXTINF:-1,Rede Brasil SD
+http://rbc.directradios.com:1935/rbc/rbc_360p/playlist.m3u8
+#EXTINF:-1,GV News HD#EXTM3U
+#EXTINF:-1,TV Feliz HD
+http://tv02.logicahost.com.br:1935/tvfelizrn/tvfelizrn/live.m3u8
+#EXTINF:-1,Rede Gospel SD
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+#EXTINF:-1,Canal Rural HD
+http://evpp.mm.uol.com.br/canal_rural/aovivo.sdp/chunklist_w1210899195.m3u8
+#EXTINF:-1,Rio TV Camera HD
+http://199.189.86.19:1935/live/tvc/livestream.m3u8
+#EXTINF:-1,Tv Alese
+https://digilab.cds.ebtcvd.net/live-tvalese/stream1/chunklist.m3u8
+#EXTINF:-1,Tv Reporter HD
+http://187.63.179.171:1935/live/stream_720p/livestream.m3u8
+#EXTINF:-1,MKK Web Radio e TV
+http://wse01.logicahost.com.br:1935/mkkweb/mkkweb/chunklist_w1610730155.m3u8
+#EXTINF:-1,All Sport FHD
+http://tv01.logicahost.com.br:1935/dgrau/dgrau/live.m3u8
+#EXTINF:-1,STV Direto FHD
+http://livestreamcdn.net:1935/SobrenaturalTV/SobrenaturalTV/live.m3u8
+#EXTINF:-1,Carioca Interativo Music
+http://tv02.logicahost.com.br:1935/cariocainterativo/cariocainterativo/live.m3u8
+#EXTINF:-1,Catve HD
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
+#EXTINF:-1,iptvtools_89
+http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
+#EXTINF:-1,Conect TV FHD
+http://stream02.msolutionbrasil.com.br:1935/conectv/live/livestream.m3u8
+#EXTINF:-1,Cidade Viva SD
+http://wse5.player.tv.br:1935/evento1/evento1_720p/live.m3u8
+#EXTINF:-1,iptvtools_101
+http://tv.tvalphanet.com.br:1935/guarufamatv/guarufamatv/live.m3u8
+#EXTINF:-1,TV InforBahia
+http://tv01.logicahost.com.br:1935/tvinforbahia/tvinforbahia/live.m3u8
+#EXTINF:-1,TVR Leiria
+http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
+#EXTINF:-1,Master TV SD
+http://tv02.logicahost.com.br:1935/tvnovus/tvnovus/live.m3u8
+https://59f1cbe63db89.streamlock.net:1443/gvnews/gvnews/playlist.m3u8
+#EXTINF:-1,TV Com SD
+http://srv6.zoeweb.tv:1935/z883-live/stream/livestream.m3u8
+#EXTINF:-1,Paramount SD
+http://paramount.live.flumotion.com/live/playlist.m3u8
+#EXTINF:-1,TV J.Sid SD
+http://stmv2.srvstm.com/tvjsid/tvjsid/playlist.m3u8
+#EXTINF:-1,TV J.Sid SD�
+http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8
+#EXTINF:-1,TV Pascoal
+http://wse01.logicahost.com.br:1935/pascoal/_definst_/pascoal/chunklist_w1869059217.m3u8
+#EXTINF:-1,TV KidMais SD
+http://tv01.logicahost.com.br:1935/tvkidmais/tvkidmais/live.m3u8
+#EXTINF:-1,TV Rio Preto HD
+http://186.227.165.118:1935/insatv/livestream/live.m3u8
+#EXTINF:-1,Telemaco HD
+http://streaming63.sitehosting.com.br:1935/telemaco/telemaco/live.m3u8
+#EXTINF:-1,Gospel Cartoon SD
+http://stmv1.srvstm.com/gospelcartoon/gospelcartoon/playlist.m3u8?wowzasessionid=217169165
+#EXTINF:-1,Envivo TV SD
+http://locomotiontv.com/envivo/loco_channel/stream.m3u8
+#EXTINF:-1,TV FaaP HD
+http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8
+#EXTINF:-1,Tv Tecnologia SD#EXTM3U
+#EXTINF:-1,Nova Era TV FHD
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+#EXTINF:-1,Canal FCV HD
+http://tv01.logicahost.com.br:1935/redeatividade/redeatividade/live.m3u8
+#EXTINF:-1,SBT Paran�
+http://bitly.com:80/Sbt-hd
+#EXTINF:-1,STV Direto SD
+http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8
+#EXTINF:-1,Summer TV HD
+http://tv01.logicahost.com.br:1935/summertv/summertv/live.m3u8
+#EXTINF:-1,TV Andradas HD
+http://caikron.com.br:1935/tvandradas/antv.stream/live.m3u8
+http://farol.ufsm.br:80/conteudo/hls/wnd2h0c_record1_source/index.m3u8
+#EXTINF:-1,TV Capital HD
+http://tv02.logicahost.com.br:1935/tvcapital/tvcapital/live.m3u8
+#EXTINF:-1,SBT HD
+http://209.126.127.101:1935/tvcidade/tvcidade/live.m3u8
+#EXTINF:-1,TV Pascoal SD
+http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1,iptvtools_46
+http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/live.m3u8
+#EXTINF:-1,SBT SD
+http://srv3.zoeweb.tv:1935/z438-live/stream/livestream.m3u8
+#EXTINF:-1,TVE HD
+http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
+#EXTINF:-1,TVE HD�
+http://streaming.procergs.com.br:1935/tve/stve/live.m3u8
+#EXTINF:-1,TV Cultura HD
+http://str.portalcultura.com.br:80/funtelpa/tv_funtelpa/live.m3u8
+#EXTINF:-1,TV Reality
+http://video-auth8.iol.pt:80/live_tvi_direct/live_tvi_direct-3/playlist.m3u8
+#EXTINF:-1,Copa TVI HD
+http://stream02.msolutionbrasil.com.br:1935/tvitape/tvitape/live.m3u8
+#EXTINF:-1,SBT HD�
+http://evpp.mm.uol.com.br:1935/ne10/ne10-tvjornal-caruaru-video-web.sdp/live.m3u8
+#EXTINF:-1,SBT HD�
+http://flash1.crossdigital.com.br:1935/1998/1998/live.m3u8
+http://wse8.player.tv.br:1935/rafael926/encoder/live.m3u8
+#EXTINF:-1,AD Sport HD
+http://adtv.ercdn.net/adsport2/adsport2.m3u8
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass3
+#EXTINF:-1,Two Sports HD
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass4
+http://stmv2.srvstm.com/16692/16692/playlist.m3u8
